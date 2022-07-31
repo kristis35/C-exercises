@@ -1,0 +1,10 @@
+C:\Users\JustPC\source\repos\LB3\LB3\bin\Debug\LB3.exe.config
+C:\Users\JustPC\source\repos\LB3\LB3\bin\Debug\LB3.exe
+C:\Users\JustPC\source\repos\LB3\LB3\bin\Debug\LB3.pdb
+C:\Users\JustPC\source\repos\LB3\LB3\obj\Debug\LB3.csprojAssemblyReference.cache
+C:\Users\JustPC\source\repos\LB3\LB3\obj\Debug\LB3.Form1.resources
+C:\Users\JustPC\source\repos\LB3\LB3\obj\Debug\LB3.Properties.Resources.resources
+C:\Users\JustPC\source\repos\LB3\LB3\obj\Debug\LB3.csproj.GenerateResource.cache
+C:\Users\JustPC\source\repos\LB3\LB3\obj\Debug\LB3.csproj.CoreCompileInputs.cache
+C:\Users\JustPC\source\repos\LB3\LB3\obj\Debug\LB3.exe
+C:\Users\JustPC\source\repos\LB3\LB3\obj\Debug\LB3.pdb

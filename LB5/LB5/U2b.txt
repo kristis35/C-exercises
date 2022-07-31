@@ -1,0 +1,4 @@
+Kolis;Bolis;Ketvirtadienis;18:25;5;LT-45
+Tolis;Trolis;Ketvirtadienis;18:25;4;LT-45
+Taris;Baris;Treciadienis;11:25;50;LT-12
+Bumis;Rumis;Antradieni;13:55;5;LT-25

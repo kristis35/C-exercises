@@ -1,0 +1,68 @@
+Užduotis
+
+Automobilių parkas. Turite duomenis apie UAB „Žaibas“ priklausančius automobilius. Duomenų
+faile pateikta ši informacija: valstybinis numeris, gamintojas, modelis, pagaminimo metai ir mėnuo,
+techninės apžiūros galiojimo data, kuras, vidutinės kuro sąnaudos (100km).
+ Raskite du naujausius automobilius (visi duomenys).
+ Sudarykite visų nurodytos markės automobilių sąrašą (visi duomenys).
+ Surikiuokite sudarytą sąrašą pagal pasirinktus du požymius.
+ Sudarykite visų automobilių gamintojų sąrašą be pasikartojimų.
+
+
+
+ Pradinis sąrašas
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ Nr.    Modelis   Valstybinis numeris          Gamintojas           Auto amzius      Technine apziura       Kuro tipas      Vid Sanaudos 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+1        Jetta          UTF:804              Volswagen                  9                  0                Benzinas               6
+2        F30            CCC:999                    BMW                  8                 -1                 Dyzelis               9
+3        F10            TTT:777                    BMW                  6                 -2                Benzinas            11,9
+4        W212           RRR:555           Mercdes-Benz                 14                  0                 Dyzelis             7,5
+5        Q7             EEE:222                   Audi                 10                 -1                Benzinas            15,9
+6        Corola         BBB:333                 Toyota                  2                  0                Benzinas             5,1
+7        Corola         BBB:333                 Toyota                  2                  0                Benzinas             5,1
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ Du naujausi automobiliai
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ Nr.    Modelis   Valstybinis numeris          Gamintojas           Auto amzius      Technine apziura       Kuro tipas      Vid Sanaudos 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+1        Corola         BBB:333                 Toyota                  2                  0                Benzinas             5,1
+2        Corola         BBB:333                 Toyota                  2                  0                Benzinas             5,1
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ Suformuotas sąrašas
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ Nr.    Modelis   Valstybinis numeris          Gamintojas           Auto amzius      Technine apziura       Kuro tipas      Vid Sanaudos 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+1        Q7             EEE:222                   Audi                 10                 -1                Benzinas            15,9
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ Rikiutoas
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ Nr.    Modelis   Valstybinis numeris          Gamintojas           Auto amzius      Technine apziura       Kuro tipas      Vid Sanaudos 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+1        Corola         BBB:333                 Toyota                  2                  0                Benzinas             5,1
+2        Corola         BBB:333                 Toyota                  2                  0                Benzinas             5,1
+3        F10            TTT:777                    BMW                  6                 -2                Benzinas            11,9
+4        F30            CCC:999                    BMW                  8                 -1                 Dyzelis               9
+5        Jetta          UTF:804              Volswagen                  9                  0                Benzinas               6
+6        Q7             EEE:222                   Audi                 10                 -1                Benzinas            15,9
+7        W212           RRR:555           Mercdes-Benz                 14                  0                 Dyzelis             7,5
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ Suformuotas naujas sarasas
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ Nr.    Modelis   Valstybinis numeris          Gamintojas           Auto amzius      Technine apziura       Kuro tipas      Vid Sanaudos 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+1        Corola         BBB:333                 Toyota                  2                  0                Benzinas             5,1
+2        F10            TTT:777                    BMW                  6                 -2                Benzinas            11,9
+3        Jetta          UTF:804              Volswagen                  9                  0                Benzinas               6
+4        Q7             EEE:222                   Audi                 10                 -1                Benzinas            15,9
+5        W212           RRR:555           Mercdes-Benz                 14                  0                 Dyzelis             7,5
+-----------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,7 @@
+Automobilių parkas. Turite duomenis apie UAB „Žaibas“ priklausančius automobilius. Duomenų
+faile pateikta ši informacija: valstybinis numeris, gamintojas, modelis, pagaminimo metai ir mėnuo,
+techninės apžiūros galiojimo data, kuras, vidutinės kuro sąnaudos (100km).
+ Raskite du naujausius automobilius (visi duomenys).
+ Sudarykite visų nurodytos markės automobilių sąrašą (visi duomenys).
+ Surikiuokite sudarytą sąrašą pagal pasirinktus du požymius.
+ Sudarykite visų automobilių gamintojų sąrašą be pasikartojimų.

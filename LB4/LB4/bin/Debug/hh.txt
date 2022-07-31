@@ -1,0 +1,64 @@
+Kepalai:
+-------------------------|--------------|-----------|
+     Name                |  Height      |    Age 
+-------------------------|--------------|-----------|
+Sobis Robis                   187            37
+Eilis Peilis                  205            33
+Kolis Bolis                   19             30
+Supis Trupis                  184            35
+Kalas Balas                   202            31
+-------------------------|--------------|------------
+
+Rokis Bobis:
+-------------------------|--------------|-----------|
+     Name                |  Height      |    Age 
+-------------------------|--------------|-----------|
+Edvinas Numavičius            184            35
+Rolandas Kalinas              202            34
+Jonas Jonis                   199            31
+Karolis Jopas                 187            36
+Matas Baranas                 201            30
+-------------------------|--------------|------------
+
+Amziaus vidurkis: 
+33,2
+
+Rokis Bobis Ugio vidurkis yra:
+159,4
+
+ Ugio vidurkis yra:
+194,6
+
+Sudarytas naujas sarasas
+-------------------------|--------------|-----------|
+     Name                |  Height      |    Age 
+-------------------------|--------------|-----------|
+Sobis Robis                   187            37
+Eilis Peilis                  205            33
+Supis Trupis                  184            35
+Kalas Balas                   202            31
+Edvinas Numavičius            184            35
+Rolandas Kalinas              202            34
+Jonas Jonis                   199            31
+Karolis Jopas                 187            36
+Matas Baranas                 201            30
+-------------------------|--------------|------------
+
+Surikiuoti
+-------------------------|--------------|-----------|
+     Name                |  Height      |    Age 
+-------------------------|--------------|-----------|
+Sobis Robis                   187            37
+Karolis Jopas                 187            36
+Supis Trupis                  184            35
+Edvinas Numavičius            184            35
+Rolandas Kalinas              202            34
+Eilis Peilis                  205            33
+Kalas Balas                   202            31
+Jonas Jonis                   199            31
+Matas Baranas                 201            30
+-------------------------|--------------|------------
+
+Krepšininkų sąrašas tuščias!
+0
+

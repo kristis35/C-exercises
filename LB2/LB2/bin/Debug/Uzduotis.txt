@@ -1,0 +1,8 @@
+U1-2. Krepšinis.
+Žinomi duomenys apie dviejose elektroninėse parduotuvėse parduodamas prekes. Pirmoje eilutėje yra pardavėjo vardas ir pavardė. Tolesnėse kiekvienoje eilutėje yra prekės pavadinimas, prekės vieneto kaina, parduodamų prekių vienetų skaičius, galiojimo laikas dienomis, pristatymo trukmė. L1+L2+L4. 
+• Kurioje parduotuvėje yra daugiau prekių, kurių galiojimo laikas ne trumpesnis kaip d dienų? 
+• Sudarykite prekių sąrašą, kurių yra abiejose parduotuvėse. 
+• Surikiuokite rezultatų sąrašą pagal prekių pavadinimus. 
+• Pašalinkite iš rezultatų sąrašo prekes, kurių galiojimo laikas yra mažesnis už nurodytą klaviatūra.
+ L2 papildymas. 
+• Papildykite surikiuotą rezultatų sąrašą naujai gautų prekių, kurių galiojimo laikas didesnis už nurodytą klaviatūra. Duomenys yra atskirame faile. Pirmoje eilutėje – tiekėjo pavadinimas.

@@ -1,0 +1,10 @@
+C:\Users\JustPC\source\repos\LB4\LB4\bin\Debug\LB4.exe.config
+C:\Users\JustPC\source\repos\LB4\LB4\bin\Debug\LB4.exe
+C:\Users\JustPC\source\repos\LB4\LB4\bin\Debug\LB4.pdb
+C:\Users\JustPC\source\repos\LB4\LB4\obj\Debug\LB4.csprojAssemblyReference.cache
+C:\Users\JustPC\source\repos\LB4\LB4\obj\Debug\LB4.Form1.resources
+C:\Users\JustPC\source\repos\LB4\LB4\obj\Debug\LB4.Properties.Resources.resources
+C:\Users\JustPC\source\repos\LB4\LB4\obj\Debug\LB4.csproj.GenerateResource.cache
+C:\Users\JustPC\source\repos\LB4\LB4\obj\Debug\LB4.csproj.CoreCompileInputs.cache
+C:\Users\JustPC\source\repos\LB4\LB4\obj\Debug\LB4.exe
+C:\Users\JustPC\source\repos\LB4\LB4\obj\Debug\LB4.pdb

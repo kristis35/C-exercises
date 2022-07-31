@@ -1,0 +1,57 @@
+Užduotis
+
+U1-2. Krepšinis.
+Žinomi duomenys apie dviejose elektroninėse parduotuvėse parduodamas prekes. Pirmoje eilutėje yra pardavėjo vardas ir pavardė. Tolesnėse kiekvienoje eilutėje yra prekės pavadinimas, prekės vieneto kaina, parduodamų prekių vienetų skaičius, galiojimo laikas dienomis, pristatymo trukmė. L1+L2+L4. 
+• Kurioje parduotuvėje yra daugiau prekių, kurių galiojimo laikas ne trumpesnis kaip d dienų? 
+• Sudarykite prekių sąrašą, kurių yra abiejose parduotuvėse. 
+• Surikiuokite rezultatų sąrašą pagal prekių pavadinimus. 
+• Pašalinkite iš rezultatų sąrašo prekes, kurių galiojimo laikas yra mažesnis už nurodytą klaviatūra.
+ L2 papildymas. 
+• Papildykite surikiuotą rezultatų sąrašą naujai gautų prekių, kurių galiojimo laikas didesnis už nurodytą klaviatūra. Duomenys yra atskirame faile. Pirmoje eilutėje – tiekėjo pavadinimas.
+
+
+
+ Pradiniai duomenys 1
+---------------------------------------------------------------------
+ Nr. Pavardė ir vardas        Ugis        Amžius 
+--------------------------------------------------------------------
+  1 Robis Javtokas            209           30
+  2 Tomas Andriulevičius      186           29
+  3 Andrius Andriukonis       220           22
+  4 Markas Gazolis            205           23
+  5 Šarūnas Relinas           183           24
+  6 Matas Baranas             201           22
+  7 Karolis Jopas             187           21
+  8 Jonas Jonis               199           23
+  9 Rolandas Kalinas          202           26
+ 10 Edvinas Numavičius        184           31
+--------------------------------------------------------------------
+
+
+ Pradiniai duomenys 2
+---------------------------------------------------------------------
+ Nr. Pavardė ir vardas        Ugis        Amžius 
+--------------------------------------------------------------------
+  1 Robis Javtokas            209           30
+  2 Tomas Andriulevičius      186           29
+  3 Andrius Andriukonis       220           22
+  4 Markas Gazolis            205           23
+  5 Šarūnas Relinas           183           24
+  6 Matas Baranas             201           22
+  7 Karolis Jopas             187           21
+  8 Jonas Jonis               199           23
+  9 Rolandas Kalinas          202           26
+ 10 Edvinas Numavičius        184           31
+--------------------------------------------------------------------
+
+
+ Pradiniai duomenys 3
+---------------------------------------------------------------------
+ Nr. Pavardė ir vardas        Ugis        Amžius 
+--------------------------------------------------------------------
+  1 Simas Jasaitis            201           20
+  2 Tadas Rolis               187           19
+  3 Rimas Bimas               199           21
+  4 Tautvydas Girys           202           18
+--------------------------------------------------------------------
+

@@ -1,0 +1,7 @@
+•	Programa valdoma mygtuku meniu ir mygtuku pagalba užduotis bus matoma pasirinkus menu punktą pagalba užduotis, taip pat galėsite paspausti nurodymai jei nežinosite kaip elgtis su programa, pradiniai duomenys bus matomi tada kai paspausite menu punktą įvesti. Toliau galima atlikti skaičiavimus pasirinkus menu punktą skaičiavimai:
+o	Rasti du naujausius automobilius iš sąrašo.
+o	Sudaryti sąraša to automobilio kurio modelį įvesime
+o	Surikiuokite sudarytą sąrašą pagal pasirinktus du požymius. 
+o	Sudarykite visų automobilių gamintojų sąrašą be pasikartojimų
+•	Įrašius modelį ir paspaudus Sudaryti sąrašą mygtuką bus pašalinti automobiliai iš sąrašo kuriu modelis nuįvestas.
+•	Visi skaičiavimai bus išsaugoti rezultatu faile.

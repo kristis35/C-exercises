@@ -1,0 +1,7 @@
+UTF:804;Volswagen;Jetta;2012-05-04;2021-09-07;Benzinas;5,9;
+CCC:999;BMW;F30;2013-06-01;2022-08-04;Dyzelis;8,9;
+TTT:777;BMW;F10;2015-07-01;2023-08-04;Benzinas;11,8;
+RRR:555;Mercdes-Benz;W212;2007-01-01;2021-04-30;Dyzelis;7,4;
+EEE:222;Audi;Q7;2011-03-04;2022-10-01;Benzinas;15,8;
+BBB:333;Toyota;Corola;2019-07-12;2021-10-01;Benzinas;5,0;
+BBB:333;Toyota;Corola;2019-07-12;2021-10-01;Benzinas;5,0;

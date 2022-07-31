@@ -1,0 +1,10 @@
+Programa skirta krepšininkų komandų Objektinio programavimo labaratoriniui (trys klausimai) statistiniam įvertinimų apdorojimui (žiūr. Užduotį).
+
+•	Krepšinio mokykloje treniruotes lankančių sąrašas yra tekstiniame faile: būsimo krepšininko vardas ir pavardė, amžius ir ūgis. Pirmoje eilutėje yra krepšinio mokyklos pavadinimas. Turime dviejų mokyklų duomenis
+•	Programa valdoma mygtuku meniu ir mygtuku pagalba užduotis bus matoma pasirinkus menu punktą pagalba užduotis, taip pat galėsite paspausti nurodymai jei nežinosite kaip elgtis su programa, pradiniai duomenys bus matomi tada kai paspausite menu punktą įvesti. Toliau galima atlikti skaičiavimus pasirinkus menu punktą skaičiavimai:
+		o	Rasti būsimų krepšininkų amžiaus vidurkį ir kokio ūgio vidurkis kiekvienoje mokykloje.
+		o	Surašyti į nauja sąrašą krepšininkus kuriu ūgis didesnis už vidurkį
+		o	Rikiuoti amžiaus didėjimo tvarka
+		o	Įvesti naujokus surikiuotus ir atrinktus pagal vidurkį
+•	Įrašius amžius ir paspaudus išmesti mygtuką bus pašalinti krepšininkai iš sąrašo kuriu amžius yra didesnis už nurodytą
+•	Visi skaičiavimai bus išsaugoti rezultatu faile „Rezultatai.txt“ ir paspaudus spausdinti failą išsaugosite .cvs formatu rezultatai taip pat rodomi visą laiką programos lange

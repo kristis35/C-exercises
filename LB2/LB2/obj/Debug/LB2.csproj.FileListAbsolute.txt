@@ -1,0 +1,10 @@
+C:\Users\JustPC\source\repos\LB2\LB2\bin\Debug\LB2.exe.config
+C:\Users\JustPC\source\repos\LB2\LB2\bin\Debug\LB2.exe
+C:\Users\JustPC\source\repos\LB2\LB2\bin\Debug\LB2.pdb
+C:\Users\JustPC\source\repos\LB2\LB2\obj\Debug\LB2.csprojAssemblyReference.cache
+C:\Users\JustPC\source\repos\LB2\LB2\obj\Debug\LB2.Properties.Resources.resources
+C:\Users\JustPC\source\repos\LB2\LB2\obj\Debug\LB2.csproj.GenerateResource.cache
+C:\Users\JustPC\source\repos\LB2\LB2\obj\Debug\LB2.csproj.CoreCompileInputs.cache
+C:\Users\JustPC\source\repos\LB2\LB2\obj\Debug\LB2.exe
+C:\Users\JustPC\source\repos\LB2\LB2\obj\Debug\LB2.pdb
+C:\Users\JustPC\source\repos\LB2\LB2\obj\Debug\LB2.Krepsininkai.resources

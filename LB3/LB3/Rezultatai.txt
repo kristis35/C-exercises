@@ -1,0 +1,5 @@
+﻿
+ Pradinis sąrašas
+---------------------------------------------------------------------
+ Nr. Valstybinis numeris        Gamintojas        Modelis          Auto amzius      Technine apziura       Kuro tipas      Vid Sanaudos 
+--------------------------------------------------------------------
